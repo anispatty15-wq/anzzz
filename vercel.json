@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/live2d/:path*",
+      "destination": "https://model.zulma.id/assets/models/ReZero/rem_1/:path*"
+    }
+  ]
+}
